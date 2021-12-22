@@ -10,11 +10,4 @@ export class AppComponent {
   
 
 
-
-
-  click() :void {
-    alert("You clicked me")
-  }
-
-
 }
